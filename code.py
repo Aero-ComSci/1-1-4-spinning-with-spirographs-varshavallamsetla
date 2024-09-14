@@ -1,9 +1,13 @@
 import turtle
-import random  
+import random
+
+#800px
+screen = turtle.Screen()
+screen.setup(width=800, height=800)
 
 #turtle
 t = turtle.Turtle()
-t.speed(0)  
+t.speed(0)
 t.hideturtle()
 
 def draw_square(size):
@@ -17,20 +21,16 @@ def random_color():
     return (random.random(), random.random(), random.random())
 
 num_squares = int(input("Enter the number of squares to draw: "))
-initial_size = 100  
-size_decrement = 10  
+initial_size = 100
+size_decrement = 10
 
 #squares
 for i in range(num_squares):
     size = initial_size - i * size_decrement
-
-    #color
     t.color(random_color())
-
     t.penup()
-    t.goto(-size / 2, size / 2)  
+    t.goto(-size / 2, size / 2)
     t.pendown()
-
     draw_square(size)
 
 turtle.done()
