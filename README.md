@@ -38,6 +38,6 @@ Use the forward() and right() methods to draw the sides of the squares.
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
 
-<img width="1370" alt="Screen Shot 2024-09-13 at 11 23 52 PM" src="https://github.com/user-attachments/assets/00621fd3-5bb7-46a9-b778-8d77895517f7">
+
 
 
