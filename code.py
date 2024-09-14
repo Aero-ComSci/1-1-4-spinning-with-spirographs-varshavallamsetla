@@ -4,6 +4,7 @@ import random
 #800px
 screen = turtle.Screen()
 screen.setup(width=800, height=800)
+screen.title("Concentric Squares")
 
 #turtle
 t = turtle.Turtle()
@@ -34,3 +35,4 @@ for i in range(num_squares):
     draw_square(size)
 
 turtle.done()
+
