@@ -41,5 +41,5 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 <img width="1437" alt="Screen Shot 2024-09-15 at 8 43 13 PM" src="https://github.com/user-attachments/assets/8831f2b3-029c-4534-b605-da7af1894d93">
 <img width="789" alt="Screen Shot 2024-09-14 at 12 02 05 AM" src="https://github.com/user-attachments/assets/67e3658d-bd3c-419c-9bd2-dd00464a77d2">
-
+<img width="985" alt="Screen Shot 2024-09-15 at 9 01 51 PM" src="https://github.com/user-attachments/assets/229d728a-6620-40eb-b5f4-ebe5c5ce5fe5">
 
