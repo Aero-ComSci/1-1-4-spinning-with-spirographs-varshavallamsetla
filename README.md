@@ -39,6 +39,7 @@ Use the forward() and right() methods to draw the sides of the squares.
 7. Give an example of an undecidable problem, attach code.
 
 
-<img width="1108" alt="Screen Shot 2024-09-13 at 11 42 19 PM" src="https://github.com/user-attachments/assets/79b667a5-f274-47b5-95dc-827ced3f7f23">
+<img width="1437" alt="Screen Shot 2024-09-15 at 8 43 13 PM" src="https://github.com/user-attachments/assets/8831f2b3-029c-4534-b605-da7af1894d93">
+
 
 
